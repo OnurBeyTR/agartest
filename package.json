@@ -10,7 +10,7 @@
         "ws": "^7.4.0"
     },
     "scripts": {
-        "start": "cd src && node index"
+        "start": "node index"
     },
     "repository": {
         "type": "git",
